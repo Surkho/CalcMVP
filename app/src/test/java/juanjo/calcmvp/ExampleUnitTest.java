@@ -1,4 +1,4 @@
-package juanjo.calculatormvp;
+package juanjo.calcmvp;
 
 import org.junit.Test;
 

@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">CalculatorMVP</string>
+    <string name="app_name">SimpleCalc_MVP</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="number">0</string>
 </resources>
